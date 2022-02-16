@@ -1,0 +1,24 @@
+/* sab ko call krne klye  body ya staric ( * ) use karen ge */
+body{
+background-color: rgb(81, 12, 145);
+text-align: center;
+
+}
+/* 1 ko call krne klye */
+h2{
+color: aqua;
+}
+
+/* 1 se zyada ko call krne klye */
+h1{
+    color: rgb(202, 176, 29);
+}
+/* id ko call krne klye */
+#first{
+    color: rgb(0, 243, 223);
+
+}
+ /* class ko call krne klye */
+.blue{
+font-size: xx-large;
+}
